@@ -1,2 +1,2 @@
 # KivyPongGame
-Kivy Pont Game Tutorial
+Kivy Pong Game Tutorial
